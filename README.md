@@ -1,16 +1,15 @@
 
 <h1 align="left">Hi 👋,I am Parth Patil From Mumbai Maharashtra.</h1>
-<h3 align="left">A Data Scienec Enthusiast, Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
+<h3 align="left">A Data Sciencs and applied stats Enthusiast, Pursuing my Master's degree in Statistics from Ramniranjan Jhunjhunwala College.</h3>
 
 **Seeking an opportunity to leverage my diverse skills and experience in the field of Data Analytis, Data Science & Machine Learning. My aim is to   utilize my skills and analytical abilities to help an organization with automation and advanced analytics. Experienced at creating regression models and using predictive modeling to discover insights from data and answer complex business problems**
 
-- 👀 I’m interested in the field of **Data Analytics, Data Science and Machine Learning.**
+- 👀 I’m interested in the field of **mainly Finance Dand Quality Control domain Data Science and Machine Learning.**
 - 🌱 I’m currently learning **Statistics and different Statistical Tools like R Programming, Python, SAS.**
-- 💞️ I’m looking to collaborate on **Time Series, Data Science, Machine Learning , Data Analytics Projects.**
-- 💬 Ask me about: **Statistics, Machine Learning, Cluster Analysis**
+- 💞️ I’m looking to collaborate on **Time Series, Data Science, Machine Learning Projects.**
+- 💬 Ask me about: **Statistics,Ge, Cluster Analysis**
 - 📫 How to reach me patilparth1919@gmail.com
 - https://www.linkedin.com/in/parth-patil-481161262/
-- 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,13 +19,9 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/86904142/192128158-c32ed1f4-2124-4ae3-a168-384fb7fa5134.png" width='48' height=48></a>
-<a href="https://www.tableau.com/g" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"></a>
 <a href="https://www.fullstackpython.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"></a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"></a>
 <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="48" height="48"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="48" height="48"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86904142/193598464-7bedb230-b97f-4999-9a34-68f48cfd6d91.png" alt="pandas" width="48" height="48"/></a>
@@ -45,7 +40,7 @@
 <div align="center">
   <a href="https://github.com/parthpatil1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthpatil1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthpatil11&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthpatil1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br/>
